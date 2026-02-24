@@ -2,18 +2,6 @@
 
 A full-stack social networking platform with real-time chat capabilities, built with Go and Next.js.
 
-## 📋 Table of Contents
-
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Running the Application](#running-the-application)
-- [API Endpoints](#api-endpoints)
-- [Database Schema](#database-schema)
-- [Contributing](#contributing)
-
 ## ✨ Features
 
 ### User Management
